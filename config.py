@@ -3,14 +3,14 @@
 #..........Just one requests do not remove my credit..........#
 
 import os
-API_ID = 1234567
-API_HASH = ""
-BOT_TOKEN = ""
+API_ID = 23933044
+API_HASH = "6df11147cbec7d62a323f0f498c8c03a"
+BOT_TOKEN = "7717441829:AAHNhP853L6wFR13-vqG5nlDECq5J1xKl3c"
 #Logs
 LOG_CHANNEL = "" 
 # MongoDB setup
-MONGO_URL = ""
-DB_NAME = ""
+MONGO_URL = "mongodb+srv://justatestsubject01:HzP5SK8ZiiLHcF3o@cluster0.wizfkbo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_NAME = "mdb"
 
 DOWNLOAD_DIR = "./downloads"
 #ADMIN INFO
