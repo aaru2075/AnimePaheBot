@@ -5,7 +5,7 @@
 import os
 API_ID = 23933044
 API_HASH = "6df11147cbec7d62a323f0f498c8c03a"
-BOT_TOKEN = ""
+BOT_TOKEN = "7717441829:AAFSmTdlAc8FhZRvYvofWIEuJINKJtFqgVM"
 #Logs
 LOG_CHANNEL = "Dump2075" 
 # MongoDB setup
